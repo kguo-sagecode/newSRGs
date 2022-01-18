@@ -6,9 +6,9 @@ Edwin van Dam and Krystal Guo characterise strongly regular graphs of certain pa
 
 As is explain in the paper, we could not do an exhausitive search of either class, but have come up with many examples. 
 
-For the parameter class (85,20,3,5) we found 135478 graphs. The file newSRGs-85-20-3-5-w4.txt contains the graph6 strings of these graph, plus the point graph of W(4), which is the 76517th (indexing starts at 0). Each line is a graph6 string of a graph that has been canonically-labelled and the graphs have been ordered lexicographically by graph6 string. We note that two graphs are isomorphic if and only if the graph6 strings are equal, when they are both canonically labelled. 
+For the parameter class (85,20,3,5) we found 135478 new graphs. The files with `newSRGs-85-20-3-5` in the title contain the graph6 strings of these graphs. The graph6 string of the only previously known graph, which is the point graph of the generalized quadrangle W(4), in this class is given in `SRGs-85-20-3-5-w4.txt`. Each line is a graph6 string of a graph that has been canonically-labelled and the graphs have been ordered lexicographically by graph6 string. We note that two graphs are isomorphic if and only if the graph6 strings are equal, when they are both canonically labelled. 
 
-For the parameter class (156,30,4,6) we found 17452 graphs. The file newSRGs-156-30-4-6-w5.txt contains the graph6 strings of these graph, plus the point graph of W(5), which is the 17452th (indexing starts at 0). Each line is a graph6 string of a graph that has been canonically-labelled and the graphs have been ordered lexicographically by graph6 string. 
+For the parameter class (156,30,4,6) we found 27040 new graphs. The files with  `newSRGs-156-30-4-6` in the title contain the graph6 strings of these graphs. The graph6 string of the only previously known graph (with a regular point), which is the point graph of the generalized quadrangle W(5), in this class is given in `SRGs-156-30-4-6-w5.txt`.Each line is a graph6 string of a graph that has been canonically-labelled and the graphs have been ordered lexicographically by graph6 string. 
 
 # How to use these files 
  
