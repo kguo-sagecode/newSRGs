@@ -10,6 +10,11 @@ For the parameter class (85,20,3,5) we found 135478 new graphs. The files with `
 
 For the parameter class (156,30,4,6) we found 27040 new graphs. The files with  `newSRGs-156-30-4-6` in the title contain the graph6 strings of these graphs. The graph6 string of the only previously known graph (with a regular point), which is the point graph of the generalized quadrangle W(5), in this class is given in `SRGs-156-30-4-6-w5.txt`.Each line is a graph6 string of a graph that has been canonically-labelled and the graphs have been ordered lexicographically by graph6 string. 
 
+We also explicitly construct 1 new cospectral mate of GQ(q^2,q), which is give here for q=4,5; their parameters are:
+(280,36,8,4) and (1105,80,15,5).
+
+We also find a new cospectral mate for GQ(4,6). Again, classical GQ is given in SRG-125-28-3-7.txt and the new one is in newSRG-125-28-3-7.txt. 
+
 # How to use these files 
  
 Each line is a graph6 string of a graph that has been canonically-labelled. For example, in SageMath command line, one can do the following:
