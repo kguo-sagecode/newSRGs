@@ -1,6 +1,6 @@
 
    
-cff-version: 1.0.0
+cff-version: 2
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "van Dam"
@@ -10,6 +10,6 @@ authors:
     given-names: "Krystal"
     orcid: "https://orcid.org/0000-0001-8776-537X"
 title: "kguo-sagecode/newSRGs: new pseudo-generalized quadrangles"
-version: v1.0.0
-doi: 10.5281/zenodo.6425171
-date-released: 2022-04-08
+version: v2
+doi: 10.5281/zenodo.6596987
+date-released: 2022-05-31
